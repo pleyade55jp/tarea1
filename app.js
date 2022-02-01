@@ -80,7 +80,6 @@ removeItem.addEventListener('click',() => {
 
 
 let datos={
-    encabezado:"<h1>INTEGRANTES </h1>",
     datojere:"<b>JEREMIES EMANUEL PINEDA SANDOVAL Codigo: SMIS036920</b>",
     datorodo:  "<b>JOSE RODOLFO VASQUEZ BONILLA Codigo: SMIS037117</b>",
     h2jeremi:"<h2><i>JEREMIES EMANUEL PINEDA SANDOVAL ****** SMIS036920</i></h2>",
