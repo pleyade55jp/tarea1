@@ -88,6 +88,9 @@ let datos={
         {text:'PELOTON',year:"1987",checked: false},
         {text:'INTELESTELAR',year:"2019",checked: false},
         {text:'MIDWAY:BATALLA EN EL PACIFICO',year:"2019",checked: false},
+         {text:'300',year:"2002",checked: false},
+         {text:'BLAKHAWK',year:"2009",checked: false},
+         {text:'INVICTUS',year:"2012",checked: false},
         {text:'LOS INTOCABLES',year:"1987",checked: false}]
 }
 new Vue({
